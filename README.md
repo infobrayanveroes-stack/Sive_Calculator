@@ -1,6 +1,6 @@
-# 🧮 Sive Calc Pro
+# 🧮 Sive_Calculator
 
-**Sive Calc Pro** es una calculadora científica de alto rendimiento diseñada con **Flutter**. Este proyecto demuestra el manejo de lógica matemática compleja, diseño de interfaces premium y branding personalizado.
+**Sive_Calculator** es una calculadora científica de alto rendimiento diseñada con **Flutter**. Este proyecto demuestra el manejo de lógica matemática compleja, diseño de interfaces premium y branding personalizado.
 
 ## 🚀 Características
 - **Motor Matemático:** Resolución de funciones trigonométricas, logarítmicas y potencias.
@@ -13,4 +13,5 @@
 - **Librería:** `math_expressions`
 
 ---
-Desarrollado por **Sive Tech Solutions**.
+Desarrollado por **Sive Tech Solutions**. Brayan Veroes
+
